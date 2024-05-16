@@ -1,0 +1,10 @@
+# Ignorer tous les fichiers
+*.csv
+*.html
+
+# Ignorer le dossier Images, ressources
+data/
+resultats/
+PANDAS-TUTORIAL/
+cc/
+images/
