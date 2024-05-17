@@ -4,7 +4,7 @@ Ce script Python récupère les données des bars à Toulouse à partir du site 
 
 ## Utilisation
 
-1. Assurez-vous d'avoir Python 3.x installé sur votre système.
+1. Assurez-vous d'avoir Python 3.19 installé sur votre système.
 2. Installez les dépendances requises en exécutant `pip install -r requirements.txt`.
 3. Exécutez le script principal `main.py`.
 
